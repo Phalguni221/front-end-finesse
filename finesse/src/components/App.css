@@ -1,0 +1,45 @@
+header {
+    color:pink
+}
+
+body {
+background-color: beige;
+}
+
+title {
+    font:20px;
+    color:pink;
+    background-color:black;
+}
+h1{
+   font:50px;
+   color:black;
+   text-align: center;
+   margin-right:auto
+}
+
+h2 {
+    font: 20px;
+    color:black;
+    text-align: center;
+}
+
+br {
+    display: block;
+    margin: 10px 0;
+ }
+text {
+    background-color:black; 
+    color:hotpink;
+    font-size:20px;
+    padding:2px;
+    text-align:center;
+}
+
+input {
+    background-color:black; 
+    color:hotpink;
+    font-size:18px;
+    padding:2px;
+    text-align:center;
+}
